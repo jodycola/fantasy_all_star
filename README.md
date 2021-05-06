@@ -1,4 +1,4 @@
-# Fantasy_All_Star
+# Fantasy All-Stars
 
 <img center alt="Screen Shot 2021-05-06 at 2.38.32 PM" src="https://user-images.githubusercontent.com/73686621/117356406-aeb45480-ae81-11eb-8958-d411ecdebff2.png">
 
